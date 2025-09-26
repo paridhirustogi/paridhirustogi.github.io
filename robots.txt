@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://paridhirustogi.github.io./sitemap.xml
+Sitemap: https://paridhirustogi.github.io/sitemap.xml
