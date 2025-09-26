@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: September 2025
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Attended Schmidt Futures Integration Across Models and Observations (InMOS) meeting at the University of California, Santa Barbara.
