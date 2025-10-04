@@ -31,6 +31,7 @@
     {
       "name": "Princeton University",
       "position": "Ph.D. Candidate",
+      "location": "New Jersey, United States of America",
       "url": "https://geosciences.princeton.edu/people/paridhi-rustogi",
       "startDate": "2021-08-01",
       "endDate": "Present",
@@ -44,6 +45,7 @@
     {
       "name": "Institute of Oceanography, University of Hamburg",
       "position": "Research Assistant",
+      "location": "Hamburg, Germany",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
       "summary": "Applied statistical analyses of air–sea CO2 fluxes using MPI-GE output and assimilation based on MPI-ESM (EnKF), benchmarking against observation-based pCO2 products."
