@@ -413,8 +413,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+      },{id: "news-excited-to-share-that-my-first-ph-d-paper-was-selected-as-a-research-spotlight-in-eos-sparkles-ocean-read-it-here-more-bubbles-means-more-variation-in-ocean-carbon-storage",
+          title: 'Excited to share that my first Ph.D. paper was selected as a Research...',
           description: "",
           section: "News",},{id: "news-attended-schmidt-futures-integration-across-models-and-observations-inmos-meeting-at-the-university-of-california-santa-barbara",
           title: 'Attended Schmidt Futures Integration Across Models and Observations (InMOS) meeting at the University...',
