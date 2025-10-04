@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our PNAS paper on bubble-driven gas exchange featured by Princeton MAE
-date: 2025-09-22 09:00:00-0400
+date: 2025-09-18
 inline: false
 related_posts: false
 ---
