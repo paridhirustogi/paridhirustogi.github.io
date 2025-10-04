@@ -1,200 +1,184 @@
 {
   "basics": {
     "name": "Paridhi Rustogi",
-    "label": "Scientist",
+    "label": "Ph.D. Candidate, Biogeochemical Oceanography",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "prustogi@princeton.edu",
+    "phone": "(609) 933-8860",
+    "url": "https://paridhirustogi.github.io",
+    "summary": "Ph.D. candidate in Geosciences at Princeton University researching the impact of wind-wave-bubble variability on air-sea gas exchange and ocean carbon and oxygen cycling. Experienced in ocean biogeochemical modeling, climate data analysis, and science communication.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Princeton",
       "countryCode": "US",
-      "region": "California"
+      "region": "New Jersey"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "ORCID",
+        "username": "0000-0002-3354-6718",
+        "url": "https://orcid.org/0000-0002-3354-6718"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "oqUyCzEAAAAJ",
+        "url": "https://scholar.google.com/citations?hl=en&user=oqUyCzEAAAAJ"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Princeton University",
+      "position": "Ph.D. Candidate",
+      "url": "https://geosciences.princeton.edu/people/paridhi-rustogi",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "summary": "Studying the impact of wind-wave-bubble variability on the air-sea gas exchange of carbon and oxygen and the resulting impact on ocean interior storage.",
+      "highlights": [
+        "Air–sea carbon and oxygen exchange",
+        "Ocean biogeochemical modeling (MOM6-COBALT)",
+        "Climate data synthesis (SOCOM, BGC-Argo, GLODAP)"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Institute of Oceanography, University of Hamburg",
+      "position": "Research Assistant",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Applied statistical analyses of air–sea CO2 fluxes using MPI-GE output and assimilation based on MPI-ESM (EnKF), benchmarking against observation-based pCO2 products."
+    },
+    {
+      "name": "International Water Management Institute",
+      "position": "Research Intern",
+      "location": "Colombo, Sri Lanka",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-01",
+      "summary": "Curated and systematized a global database of educational resources on waste resource recovery and reuse."
+    },
+    {
+      "name": "Global Water Partnership South Asia",
+      "position": "Research Associate",
+      "location": "Colombo, Sri Lanka",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Researched and authored case studies on climate adaptation and water security across South Asia, informing regional policy."
+    },
+    {
+      "name": "Indian Institute of Technology Delhi",
+      "position": "Research Assistant",
+      "location": "Delhi, India",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-01",
+      "summary": "Contributed to manuscript preparation on model-based projections of India’s hydrological cycle under a geoengineering scenario."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Princeton University",
+      "area": "Earth Sciences",
+      "studyType": "Ph.D.",
+      "startDate": "2021-08-01",
+      "endDate": "2026-05-01",
+      "summary": "Thesis: Constraining the Impact of Wind-wave-bubble Variability on the Air-sea Gas Exchange",
+      "url": "https://geosciences.princeton.edu"
+    },
+    {
+      "institution": "University of Hamburg",
+      "area": "Integrated Climate System Sciences",
+      "studyType": "M.Sc.",
+      "startDate": "2018-10-01",
+      "endDate": "2021-07-01",
+      "summary": "Thesis: Seasonal Analysis of Atmosphere-Ocean Carbon Flux Variability in the North Atlantic and the Southern Ocean"
+    },
+    {
+      "institution": "Delhi Technological University",
+      "area": "Environmental Engineering",
+      "studyType": "B.Tech.",
+      "startDate": "2013-08-01",
+      "endDate": "2017-05-01",
+      "summary": "Thesis: Comparative Analysis of Air Quality in Major Cities of India"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Climate and Environmental Sciences and Engineering (CESEn) Fellow",
+      "date": "2024-09-01",
+      "awarder": "High Meadows Environmental Institute"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Centennial Fellowship in the Natural Sciences and Engineering",
+      "date": "2021-09-01",
+      "awarder": "Princeton University"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "DAAD Merit Scholarship for International Students",
+      "date": "2020-01-01",
+      "awarder": "German Academic Exchange Service (DAAD)"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "Telenor Youth Forum Winner – Project GreenCred",
+      "date": "2017-12-01",
+      "awarder": "Telenor"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "title": "Excellence Award",
+      "date": "2016-06-01",
+      "awarder": "Ministry of Environment, Republic of Korea"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Cargill Global Scholarship",
+      "date": "2015-01-01",
+      "awarder": "Cargill & Institute of International Education"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "A universal wind-wave-bubble formulation for air-sea gas exchange and its impact on oxygen fluxes",
+      "publisher": "PNAS",
+      "releaseDate": "2025-01-01",
+      "url": "https://doi.org/10.1073/pnas.XXXXX",
+      "summary": "Develops a universal wave-bubble formulation and quantifies its role in oxygen fluxes."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Influence of wave-induced variability on ocean carbon uptake",
+      "publisher": "Global Biogeochemical Cycles",
+      "releaseDate": "2025-01-01",
+      "url": "http://dx.doi.org/10.1029/2024GB008382",
+      "summary": "Assesses the effect of wave-driven variability on air-sea CO₂ fluxes and carbon storage."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "The impact of seasonality on the annual air-sea carbon flux and its interannual variability",
+      "publisher": "npj Climate and Atmospheric Science",
+      "releaseDate": "2023-01-01",
+      "url": "http://dx.doi.org/10.1038/s41612-023-00378-3",
+      "summary": "Examines seasonal and interannual variability of CO₂ flux in the North Atlantic and Southern Ocean."
+    },
+    {
+      "name": "Ecological benefits of reviving urban water bodies using rainwater harvesting",
+      "publisher": "Int. J. Adv. Res. Innov.",
+      "releaseDate": "2017-01-01",
+      "url": "http://dx.doi.org/10.51976/ijari.521713"
+    },
+    {
+      "name": "Revival and rejuvenation strategy of water bodies in a metropolitan city: a case study of Najafgarh lake, Delhi, India",
+      "publisher": "Int. J. Adv. Res.",
+      "releaseDate": "2017-01-01",
+      "url": "http://dx.doi.org/10.21474/IJAR01/3131"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Programming",
+      "keywords": ["Python (Advanced)", "Linux (Advanced)", "Fortran (Basic)"]
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Modeling & Data",
+      "keywords": ["MOM6-COBALTv2/v3", "MPI-GE", "Climate Data Analysis (World Ocean Database, SOCOM, BGC-Argo, GLODAP)"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Languages",
+      "keywords": ["Hindi (Native)", "English (Native)", "German (B1 - Limited proficiency)"]
     }
   ]
 }
