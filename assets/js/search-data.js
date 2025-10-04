@@ -413,18 +413,18 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+      },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-attended-schmidt-futures-integration-across-models-and-observations-inmos-meeting-at-the-university-of-california-santa-barbara",
           title: 'Attended Schmidt Futures Integration Across Models and Observations (InMOS) meeting at the University...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-our-pnas-paper-on-bubble-driven-gas-exchange-featured-by-princeton-mae",
+          title: 'Our PNAS paper on bubble-driven gas exchange featured by Princeton MAE',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
