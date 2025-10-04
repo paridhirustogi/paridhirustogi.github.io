@@ -6,7 +6,7 @@
     "email": "prustogi@princeton.edu",
     "phone": "(609) 933-8860",
     "url": "https://paridhirustogi.github.io",
-    "summary": "Ph.D. candidate in Geosciences at Princeton University researching the impact of wind-wave-bubble variability on air-sea gas exchange and ocean carbon and oxygen cycling. Experienced in ocean biogeochemical modeling, climate data analysis, and science communication.",
+    "summary": "Ph.D. Candidate in Geosciences at Princeton University, researching the impact of wind-wave-bubble variability on air-sea gas exchange and ocean carbon and oxygen cycling. Experienced in ocean biogeochemical modeling, climate data analysis, and science communication.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -31,15 +31,13 @@
     {
       "name": "Princeton University",
       "position": "Ph.D. Candidate",
-      "location": "New Jersey, United States of America",
+      "location": "New Jersey, USA",
       "url": "https://geosciences.princeton.edu/people/paridhi-rustogi",
       "startDate": "2021-08-01",
-      "endDate": "Present",
+      "endDate": "2026-05-31",
       "summary": "Studying the impact of wind-wave-bubble variability on the air-sea gas exchange of carbon and oxygen and the resulting impact on ocean interior storage.",
       "highlights": [
-        "Air–sea carbon and oxygen exchange",
-        "Ocean biogeochemical modeling (MOM6-COBALT)",
-        "Climate data synthesis (SOCOM, BGC-Argo, GLODAP)"
+        ""
       ]
     },
     {
