@@ -195,7 +195,9 @@ exclude:
   - _pages/repositories.md
   - _pages/profiles.md
   - _pages/books.md
-  - _pages/projects.md
+  - _projects
+  - _data/repositories.yml
+  
   
 keep_files:
   - CNAME
