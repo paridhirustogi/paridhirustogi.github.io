@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in the Department of Geosciences at Princeton University (expected graduation May 2026), where I study how the ocean responds to a changing climate, focusing on the cycling of oxygen and carbon. My research focuses on wind-wave-bubble processes at the air-sea interface and how they shape gas exchange, variability in the carbon sink, and oxygen distributions across the global ocean interior. I combine global ocean circulation models with observations from Argo floats and ship-based datasets to understand how small-scale surface processes translate into large-scale climate signals.
+I am a Ph.D. candidate in the Department of Geosciences at Princeton University (expected graduation May 2026), where I study how the ocean responds to a changing climate, focusing on the cycling of oxygen and carbon. My research focuses on wind-wave-bubble processes at the air-sea interface and how they shape gas exchange, carbon sink variability, and ocean interior oxygen distributions. I combine global ocean circulation models with observations from Argo floats and ship-based datasets to understand how small-scale surface processes translate into large-scale climate signals.
 
 Before coming to Princeton, I earned a Master’s in Integrated Climate System Sciences at the University of Hamburg, Germany, where I focused on coupled ocean–atmosphere dynamics and carbon fluxes, and a Bachelor’s in Environmental Engineering in New Delhi, India, where I grew up.
