@@ -385,8 +385,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-more-bubbles-means-more-variation-in-ocean-carbon-storage",
-          title: 'More bubbles means more variation in ocean carbon storage',
+      },{id: "news-my-first-ph-d-paper-was-selected-as-a-research-spotlight-in-eos-more-bubbles-means-more-variation-in-ocean-carbon-storage",
+          title: 'My first Ph.D. paper was selected as a Research Spotlight in Eos: More...',
           description: "",
           section: "News",},{id: "news-attended-schmidt-futures-integration-across-models-and-observations-inmos-meeting-at-the-university-of-california-santa-barbara",
           title: 'Attended Schmidt Futures Integration Across Models and Observations (InMOS) meeting at the University...',
