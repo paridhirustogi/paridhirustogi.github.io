@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>415 Briger Hall</p>
+    <p>C415 Briger Hall</p>
     <p>Princeton University</p>
-    <p>Princeton, NJ 085405</p>
+    <p>Princeton, NJ 08540</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
