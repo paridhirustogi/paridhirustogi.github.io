@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Received Best Presentation (Student Choice) + Best Group Report Awards at the GOOD-OARS Summer School in Malaysia!
+Received Best Presentation (Student Choice) Award at the GOOD-OARS Summer School in Malaysia!
