@@ -41,8 +41,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-received-best-presentation-student-choice-best-group-report-awards-at-the-good-oars-summer-school-in-malaysia",
-          title: 'Received Best Presentation (Student Choice) + Best Group Report Awards at the GOOD-OARS...',
+            },},{id: "news-received-best-presentation-student-choice-award-at-the-good-oars-summer-school-in-malaysia",
+          title: 'Received Best Presentation (Student Choice) Award at the GOOD-OARS Summer School in Malaysia!...',
           description: "",
           section: "News",},{
       id: 'light-theme',
