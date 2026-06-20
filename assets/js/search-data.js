@@ -44,6 +44,9 @@ ninja.data = [{
             },},{id: "news-received-best-presentation-student-choice-award-at-the-good-oars-summer-school-in-malaysia",
           title: 'Received Best Presentation (Student Choice) Award at the GOOD-OARS Summer School in Malaysia!...',
           description: "",
+          section: "News",},{id: "news-",
+          title: '',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
