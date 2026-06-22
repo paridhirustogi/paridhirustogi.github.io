@@ -30,11 +30,11 @@
   "work": [
     {
       "name": "Princeton University",
-      "position": "Ph.D. Candidate",
+      "position": "Postdoctoral Researcher",
       "location": "New Jersey, USA",
       "url": "https://geosciences.princeton.edu/people/paridhi-rustogi",
-      "startDate": "2021-08-01",
-      "endDate": "2026-05-31",
+      "startDate": "2026-06-22",
+      "endDate": "",
       "summary": "Studying the impact of wind-wave-bubble variability on the air-sea gas exchange of carbon and oxygen and the resulting impact on ocean interior storage.",
       "highlights": [
         ""
@@ -79,7 +79,7 @@
       "area": "Earth Sciences",
       "studyType": "Ph.D.",
       "startDate": "2021-08-01",
-      "endDate": "2026-05-01",
+      "endDate": "2026-05-26",
       "summary": "Thesis: Constraining the Impact of Wind-wave-bubble Variability on the Air-sea Gas Exchange",
       "url": "https://geosciences.princeton.edu"
     },
@@ -133,37 +133,42 @@
     }
   ],
   "publications": [
-    {
-      "name": "A universal wind-wave-bubble formulation for air-sea gas exchange and its impact on oxygen fluxes",
-      "publisher": "PNAS",
-      "releaseDate": "2025-01-01",
-      "url": "https://doi.org/10.1073/pnas.XXXXX",
-      "summary": "Develops a universal wave-bubble formulation and quantifies its role in oxygen fluxes."
+     {
+      "name": "The influence of waves and bubbles on oxygen in the ocean interior",
+      "publisher": "IOPscience",
+      "releaseDate": "2026-04-28",
+      "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ae612b",
+      "summary": "Applies a generalized wind-wave-bubble formulation and quantifies its impact on oxygen in the ocean."
     },
+    { "name": "A universal wind-wave-bubble formulation for air-sea gas exchange and its impact on oxygen fluxes", 
+      "publisher": "PNAS", 
+      "releaseDate": "2025-09-16", 
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2419319122",
+      "summary": "Develops a universal wave-bubble formulation and quantifies its role in oxygen fluxes." },
     {
       "name": "Influence of wave-induced variability on ocean carbon uptake",
       "publisher": "Global Biogeochemical Cycles",
-      "releaseDate": "2025-01-01",
+      "releaseDate": "2025-06-19",
       "url": "http://dx.doi.org/10.1029/2024GB008382",
       "summary": "Assesses the effect of wave-driven variability on air-sea CO₂ fluxes and carbon storage."
     },
     {
       "name": "The impact of seasonality on the annual air-sea carbon flux and its interannual variability",
       "publisher": "npj Climate and Atmospheric Science",
-      "releaseDate": "2023-01-01",
+      "releaseDate": "2023-06-09",
       "url": "http://dx.doi.org/10.1038/s41612-023-00378-3",
       "summary": "Examines seasonal and interannual variability of CO₂ flux in the North Atlantic and Southern Ocean."
     },
     {
       "name": "Ecological benefits of reviving urban water bodies using rainwater harvesting",
       "publisher": "Int. J. Adv. Res. Innov.",
-      "releaseDate": "2017-01-01",
+      "releaseDate": "2017-06-15",
       "url": "http://dx.doi.org/10.51976/ijari.521713"
     },
     {
       "name": "Revival and rejuvenation strategy of water bodies in a metropolitan city: a case study of Najafgarh lake, Delhi, India",
       "publisher": "Int. J. Adv. Res.",
-      "releaseDate": "2017-01-01",
+      "releaseDate": "2017-02-18",
       "url": "http://dx.doi.org/10.21474/IJAR01/3131"
     }
   ],
