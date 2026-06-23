@@ -15,9 +15,7 @@ nav_order: 2
 
 <div class="publications">
 
-  <div
-    style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.5rem;"
-  >
+  <div style="display: flex; align-items: center; gap: 1rem;">
     <h1>Publications</h1>
     <a
       href="https://scholar.google.com/citations?user=oqUyCzEAAAAJ&hl=en"
