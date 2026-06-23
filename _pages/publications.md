@@ -16,7 +16,6 @@ nav_order: 2
 <div class="publications">
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1.5rem;">
-  <h1>Publications</h1>
   <a href="https://scholar.google.com/citations?user=oqUyCzEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar Profile">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar" style="height: 32px; width: 32px;">
   </a>
