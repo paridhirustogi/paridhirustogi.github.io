@@ -4,6 +4,7 @@ title: bookshelf
 permalink: /books/
 nav: true
 collection: books
+nav_order: 5
 ---
 
 This page highlights books I am reading, have read, or plan to read.  
