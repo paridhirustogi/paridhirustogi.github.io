@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-bookshelf",
-          title: "bookshelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-bookshelf",
+          title: "bookshelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
           },
         },{id: "news-my-first-ph-d-paper-was-selected-as-a-research-spotlight-in-eos-more-bubbles-means-more-variation-in-ocean-carbon-storage",
           title: 'My first Ph.D. paper was selected as a Research Spotlight in Eos: More...',
