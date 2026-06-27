@@ -34,9 +34,15 @@
 </div>
 
 {% if site.news.size > 3 %}
-  <div class="text-center mt-3">
-    <a href="{{ '/news/' | relative_url }}">
-      See all news →
-    </a>
+  <div class="text-start mt-3">
+    {% if page.url == "/news/" %}
+      <a href="{{ '/' | relative_url }}">
+        ← Return to main page
+      </a>
+    {% else %}
+      <a href="{{ '/news/' | relative_url }}">
+        See all news →
+      </a>
+    {% endif %}
   </div>
 {% endif %}
