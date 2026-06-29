@@ -57,6 +57,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-second-ph-d-paper-focusing-on-ocean-oxygen-is-out-the-influence-of-waves-and-bubbles-on-oxygen-in-the-ocean-interior",
           title: 'My second Ph.D. paper focusing on ocean oxygen is out: The influence of...',
           description: "",
+          section: "News",},{id: "news-",
+          title: '',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
