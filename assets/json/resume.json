@@ -78,8 +78,8 @@
       "institution": "Princeton University",
       "area": "Earth Sciences",
       "studyType": "Ph.D.",
-      "startDate": "2021-08-01",
-      "endDate": "2026-05-26",
+      "startDate": "2021-08",
+      "endDate": "2026-05",
       "summary": "Thesis: Constraining the Impact of Wind-wave-bubble Variability on the Air-sea Gas Exchange",
       "url": "https://geosciences.princeton.edu"
     },
@@ -87,48 +87,48 @@
       "institution": "University of Hamburg",
       "area": "Integrated Climate System Sciences",
       "studyType": "M.Sc.",
-      "startDate": "2018-10-01",
-      "endDate": "2021-07-01",
+      "startDate": "2018-10",
+      "endDate": "2021-01",
       "summary": "Thesis: Seasonal Analysis of Atmosphere-Ocean Carbon Flux Variability in the North Atlantic and the Southern Ocean"
     },
     {
       "institution": "Delhi Technological University",
       "area": "Environmental Engineering",
       "studyType": "B.Tech.",
-      "startDate": "2013-08-01",
-      "endDate": "2017-05-01",
+      "startDate": "2013-08",
+      "endDate": "2017-05",
       "summary": "Thesis: Comparative Analysis of Air Quality in Major Cities of India"
     }
   ],
   "awards": [
     {
       "title": "Climate and Environmental Sciences and Engineering (CESEn) Fellow",
-      "date": "2024-09-01",
+      "date": "2024",
       "awarder": "High Meadows Environmental Institute"
     },
     {
       "title": "Centennial Fellowship in the Natural Sciences and Engineering",
-      "date": "2021-09-01",
+      "date": "2021",
       "awarder": "Princeton University"
     },
     {
       "title": "DAAD Merit Scholarship for International Students",
-      "date": "2020-01-01",
+      "date": "2020",
       "awarder": "German Academic Exchange Service (DAAD)"
     },
     {
       "title": "Telenor Youth Forum Winner – Project GreenCred",
-      "date": "2017-12-01",
+      "date": "2017",
       "awarder": "Telenor"
     },
     {
       "title": "Excellence Award",
-      "date": "2016-06-01",
+      "date": "2016",
       "awarder": "Ministry of Environment, Republic of Korea"
     },
     {
       "title": "Cargill Global Scholarship",
-      "date": "2015-01-01",
+      "date": "2015",
       "awarder": "Cargill & Institute of International Education"
     }
   ],
