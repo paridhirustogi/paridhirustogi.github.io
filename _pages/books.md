@@ -60,7 +60,7 @@ Books are one of my favorite ways to explore ideas beyond oceanography. Here are
 </div>
 
 <script
-src="https://www.goodreads.com/review/grid_widget/69583160.The%20last%20few%20books%20I've%20read?cover_size=medium&hide_link=1&hide_title=1&num_books=24&order=d&shelf=read&sort=date_added&widget_id=1782776898"
+src="https://www.goodreads.com/review/grid_widget/69583160.The%20last%20few%20books%20I've%20read?cover_size=medium&hide_link=1&hide_title=1&num_books=21&order=d&shelf=read&sort=date_added&widget_id=1782776898"
 type="text/javascript"
 charset="utf-8">
 </script>
