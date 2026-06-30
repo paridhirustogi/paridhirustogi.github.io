@@ -33,7 +33,7 @@
       "position": "Postdoctoral Researcher",
       "location": "New Jersey, USA",
       "url": "https://geosciences.princeton.edu/people/paridhi-rustogi",
-      "startDate": "2026-06-22",
+      "startDate": "2026-06",
       "endDate": "",
       "summary": "Studying the impact of wind-wave-bubble variability on the air-sea gas exchange of carbon and oxygen and the resulting impact on ocean interior storage.",
       "highlights": [
@@ -44,32 +44,32 @@
       "name": "Institute of Oceanography, University of Hamburg",
       "position": "Research Assistant",
       "location": "Hamburg, Germany",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
+      "startDate": "2019-01",
+      "endDate": "2021-01",
       "summary": "Applied statistical analyses of air–sea CO2 fluxes using MPI-GE output and assimilation based on MPI-ESM (EnKF), benchmarking against observation-based pCO2 products."
     },
     {
       "name": "International Water Management Institute",
       "position": "Research Intern",
       "location": "Colombo, Sri Lanka",
-      "startDate": "2018-01-01",
-      "endDate": "2018-12-01",
+      "startDate": "2018-04",
+      "endDate": "2018-07",
       "summary": "Curated and systematized a global database of educational resources on waste resource recovery and reuse."
     },
     {
       "name": "Global Water Partnership South Asia",
       "position": "Research Associate",
       "location": "Colombo, Sri Lanka",
-      "startDate": "2017-01-01",
-      "endDate": "2018-01-01",
+      "startDate": "2017-09",
+      "endDate": "2018-03",
       "summary": "Researched and authored case studies on climate adaptation and water security across South Asia, informing regional policy."
     },
     {
       "name": "Indian Institute of Technology Delhi",
       "position": "Research Assistant",
       "location": "Delhi, India",
-      "startDate": "2017-01-01",
-      "endDate": "2017-12-01",
+      "startDate": "2017-07",
+      "endDate": "2017-08",
       "summary": "Contributed to manuscript preparation on model-based projections of India’s hydrological cycle under a geoengineering scenario."
     }
   ],
