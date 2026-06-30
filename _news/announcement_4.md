@@ -5,5 +5,3 @@ date: 2025-11-12
 inline: true
 related_posts: false
 ---
-
-Received Best Presentation (Student Choice) Award at the GOOD-OARS Summer School in Malaysia!
