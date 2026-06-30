@@ -37,10 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "news-",
-          title: '',
+        },{id: "news-my-first-ph-d-paper-was-selected-as-a-research-spotlight-in-eos",
+          title: 'My first Ph.D. paper was selected as a Research Spotlight in Eos.',
           description: "",
-          section: "News",},{id: "news-attended-schmidt-futures-integration-across-models-and-observations-inmos-meeting-at-the-university-of-california-santa-barbara",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-attended-schmidt-futures-integration-across-models-and-observations-inmos-meeting-at-the-university-of-california-santa-barbara",
           title: 'Attended Schmidt Futures Integration Across Models and Observations (InMOS) meeting at the University...',
           description: "",
           section: "News",},{id: "news-our-pnas-paper-on-bubble-driven-gas-exchange-featured-by-princeton-mae",
