@@ -25,12 +25,12 @@ Books are one of my favorite ways to explore ideas beyond oceanography. Here are
 }
 
 .gr_grid_book_container {
-    width: 98px;
+    width: 80px;
     transition: transform 0.2s ease;
 }
 
 .gr_grid_book_container img {
-    width: 98px;
+    width: 80px;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -52,7 +52,7 @@ Books are one of my favorite ways to explore ideas beyond oceanography. Here are
     }
 
     .gr_grid_book_container {
-        width: 90px;
+        width: 80px;
     }
 }
 </style>
@@ -67,7 +67,7 @@ Books are one of my favorite ways to explore ideas beyond oceanography. Here are
 </div>
 
 <script
-src="https://www.goodreads.com/review/grid_widget/69583160.The%20last%20few%20books%20I've%20read?cover_size=medium&hide_link=1&hide_title=1&num_books=24&order=d&shelf=read&sort=date_added&widget_id=1782776898"
+src="https://www.goodreads.com/review/grid_widget/69583160.The%20last%20few%20books%20I've%20read?cover_size=medium&hide_link=1&hide_title=1&num_books=21&order=d&shelf=read&sort=date_added&widget_id=1782776898"
 type="text/javascript"
 charset="utf-8">
 </script>
