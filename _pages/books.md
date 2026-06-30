@@ -9,15 +9,6 @@ nav_order: 5
 
 Books are one of my favorite ways to explore ideas beyond oceanography. Here are a few I've recently read.
 
-<p>
-  <a href="https://www.goodreads.com/user/show/69583160"
-     target="_blank"
-     rel="noopener noreferrer"
-     class="btn btn-outline-primary">
-     📚 Follow me on Goodreads
-  </a>
-</p>
-
 <style>
 /* Goodreads widget */
 #gr_grid_widget_1782776898 h2,
@@ -73,3 +64,12 @@ src="https://www.goodreads.com/review/grid_widget/69583160.The%20last%20few%20bo
 type="text/javascript"
 charset="utf-8">
 </script>
+
+<p>
+  <a href="https://www.goodreads.com/user/show/69583160"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="btn btn-outline-primary">
+     📚 Follow me on Goodreads
+  </a>
+</p>
