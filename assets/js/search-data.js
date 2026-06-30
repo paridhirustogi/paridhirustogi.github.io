@@ -45,8 +45,8 @@ ninja.data = [{
             },},{id: "news-attended-schmidt-futures-integration-across-models-and-observations-inmos-meeting-at-the-university-of-california-santa-barbara",
           title: 'Attended Schmidt Futures Integration Across Models and Observations (InMOS) meeting at the University...',
           description: "",
-          section: "News",},{id: "news-our-pnas-paper-on-bubble-driven-gas-exchange-featured-by-princeton-mae",
-          title: 'Our PNAS paper on bubble-driven gas exchange featured by Princeton MAE',
+          section: "News",},{id: "news-our-pnas-paper-on-bubble-driven-gas-exchange-featured-by-princeton-mechanical-aerospace-engineering",
+          title: 'Our PNAS paper on bubble-driven gas exchange featured by Princeton Mechanical + Aerospace...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
