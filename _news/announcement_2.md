@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our PNAS paper on bubble-driven gas exchange featured by Princeton MAE
+title: Our PNAS paper on bubble-driven gas exchange featured by Princeton Mechanical + Aerospace Engineering. 
 date: 2025-09-18
 inline: false
 related_posts: false
