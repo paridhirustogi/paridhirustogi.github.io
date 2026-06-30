@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper was accepted as a paper for a special issue on ocean deoxygenation.
+title: Our paper was accepted for a special issue on ocean deoxygenation.
 date: 2026-04-28 
 inline: true
 related_posts: false
