@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "news-my-first-ph-d-paper-was-selected-as-a-research-spotlight-in-eos-more-bubbles-means-more-variation-in-ocean-carbon-storage",
-          title: 'My first Ph.D. paper was selected as a Research Spotlight in Eos: More...',
+        },{id: "news-",
+          title: '',
           description: "",
           section: "News",},{id: "news-attended-schmidt-futures-integration-across-models-and-observations-inmos-meeting-at-the-university-of-california-santa-barbara",
           title: 'Attended Schmidt Futures Integration Across Models and Observations (InMOS) meeting at the University...',
