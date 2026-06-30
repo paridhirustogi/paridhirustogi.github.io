@@ -48,8 +48,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-received-best-presentation-student-choice-award-at-the-good-oars-summer-school-in-malaysia",
-          title: 'Received Best Presentation (Student Choice) Award at the GOOD-OARS Summer School in Malaysia!...',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",},{id: "news-",
           title: '',
