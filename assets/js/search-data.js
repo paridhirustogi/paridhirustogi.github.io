@@ -62,6 +62,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-successfully-defended-my-phd-thesis",
           title: 'I successfully defended my PhD thesis :)',
           description: "",
+          section: "News",},{id: "news-",
+          title: '',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
