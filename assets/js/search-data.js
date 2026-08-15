@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-bookshelf",
-          title: "bookshelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
         },{id: "news-my-first-ph-d-paper-was-selected-as-a-research-spotlight-in-eos",
           title: 'My first Ph.D. paper was selected as a Research Spotlight in Eos.',
           description: "",
