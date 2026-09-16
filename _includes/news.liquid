@@ -17,24 +17,26 @@
         {% for item in news limit: news_limit %}
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
-          <td>
-            {% if item.inline %}
-              {% if item.external_url %}
-                <a class="news-title"
-                   href="{{ item.external_url }}"
-                   target="_blank"
-                   rel="noopener noreferrer">
+            <td>
+              {% if item.inline %}
+                {% if item.external_url %}
+                  <a
+                    class="news-title"
+                    href="{{ item.external_url }}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {{ item.title }}
+                  </a>
+                {% else %}
+                  {{ item.title }}
+                {% endif %}
+              {% else %}
+                <a class="news-title" href="{{ item.url | relative_url }}">
                   {{ item.title }}
                 </a>
-              {% else %}
-                {{ item.title }}
               {% endif %}
-            {% else %}
-              <a class="news-title" href="{{ item.url | relative_url }}">
-                {{ item.title }}
-              </a>
-            {% endif %}
-          </td>
+            </td>
           </tr>
         {% endfor %}
       </table>
@@ -46,14 +48,10 @@
 
 {% if site.news.size > 3 %}
   <div class="text-start mt-3">
-    {% if page.url == "/news/" %}
-      <a href="{{ '/' | relative_url }}">
-        ← Return to main page
-      </a>
+    {% if page.url == '/news/' %}
+      <a href="{{ '/' | relative_url }}"> ← Return to main page </a>
     {% else %}
-      <a href="{{ '/news/' | relative_url }}">
-        See all news →
-      </a>
+      <a href="{{ '/news/' | relative_url }}"> See all news → </a>
     {% endif %}
   </div>
 {% endif %}
