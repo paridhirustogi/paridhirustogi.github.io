@@ -3,16 +3,16 @@
     "name": "Paridhi Rustogi",
     "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "prustogi@princeton.edu",
+    "email": "rustogi@ldeo.columbia.edu",
     "phone": "(609) 933-8860",
     "url": "https://paridhirustogi.github.io",
     "summary": "Researching the impact of wind-wave-bubble variability on air-sea gas exchange and ocean carbon and oxygen cycling. Experienced in ocean biogeochemical modeling, climate data analysis, and science communication.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Princeton",
+      "city": "New York",
       "countryCode": "US",
-      "region": "New Jersey"
+      "region": ""
     },
     "profiles": [
       {
@@ -29,12 +29,24 @@
   },
   "work": [
     {
+      "name": "Columbia University",
+      "position": "Postdoctoral Research Scientist",
+      "location": "New York, USA",
+      "url": "https://galenmckinley.github.io/group/",
+      "startDate": "2026-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    },
+    {
       "name": "Princeton University",
       "position": "Postdoctoral Researcher",
       "location": "New Jersey, USA",
       "url": "https://geosciences.princeton.edu/people/paridhi-rustogi",
       "startDate": "2026-06",
-      "endDate": "",
+      "endDate": "2026-08",
       "summary": "Studying the impact of wind-wave-bubble variability on the air-sea gas exchange of carbon and oxygen and the resulting impact on ocean interior storage.",
       "highlights": [
         ""
