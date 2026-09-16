@@ -36,9 +36,7 @@
       "startDate": "2026-09",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     },
     {
       "name": "Princeton University",
@@ -48,9 +46,7 @@
       "startDate": "2026-06",
       "endDate": "2026-08",
       "summary": "Studying the impact of wind-wave-bubble variability on the air-sea gas exchange of carbon and oxygen and the resulting impact on ocean interior storage.",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     },
     {
       "name": "Institute of Oceanography, University of Hamburg",
@@ -145,18 +141,20 @@
     }
   ],
   "publications": [
-     {
+    {
       "name": "The influence of waves and bubbles on oxygen in the ocean interior",
       "publisher": "IOPscience",
       "releaseDate": "2026-04-28",
       "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ae612b",
       "summary": "Applies a generalized wind-wave-bubble formulation and quantifies its impact on oxygen in the ocean."
     },
-    { "name": "A universal wind-wave-bubble formulation for air-sea gas exchange and its impact on oxygen fluxes", 
-      "publisher": "PNAS", 
-      "releaseDate": "2025-09-16", 
+    {
+      "name": "A universal wind-wave-bubble formulation for air-sea gas exchange and its impact on oxygen fluxes",
+      "publisher": "PNAS",
+      "releaseDate": "2025-09-16",
       "url": "https://www.pnas.org/doi/10.1073/pnas.2419319122",
-      "summary": "Develops a universal wave-bubble formulation and quantifies its role in oxygen fluxes." },
+      "summary": "Develops a universal wave-bubble formulation and quantifies its role in oxygen fluxes."
+    },
     {
       "name": "Influence of wave-induced variability on ocean carbon uptake",
       "publisher": "Global Biogeochemical Cycles",
