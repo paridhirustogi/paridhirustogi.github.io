@@ -68,8 +68,8 @@ ninja.data = [{
           section: "News",},{id: "news-",
           title: '',
           description: "",
-          section: "News",},{id: "news-a-new-update-is-now-available-on-my-recent-work-and-activities-i-will-share-more-details-soon",
-          title: 'A new update is now available on my recent work and activities. I...',
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",},{
       id: 'light-theme',
