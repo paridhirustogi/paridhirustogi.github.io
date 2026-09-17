@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Paridhi Rustogi",
-    "label": "Postdoctoral Researcher",
+    "label": "Postdoctoral Research Scientist",
     "image": "",
     "email": "rustogi@ldeo.columbia.edu",
     "phone": "(609) 933-8860",
@@ -35,7 +35,7 @@
       "url": "https://galenmckinley.github.io/group/",
       "startDate": "2026-09",
       "endDate": "",
-      "summary": "",
+      "summary": "Using the ASTE-BGC data-assimilative model to investigate how bubble modify gas exchange in the North Atlantic",
       "highlights": [""]
     },
     {
@@ -45,7 +45,7 @@
       "url": "https://geosciences.princeton.edu/people/paridhi-rustogi",
       "startDate": "2026-06",
       "endDate": "2026-08",
-      "summary": "Studying the impact of wind-wave-bubble variability on the air-sea gas exchange of carbon and oxygen and the resulting impact on ocean interior storage.",
+      "summary": "Quantified the role of physical transport in the Thorium-234 data from the Amundsen Sea collected during the GP17-ANT cruise",
       "highlights": [""]
     },
     {
