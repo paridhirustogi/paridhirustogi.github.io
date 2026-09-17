@@ -42,10 +42,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-i-was-invited-to-give-a-keynote-talk-about-the-inmos-project-at-the-schmidt-sciences-obvi-early-career-representative-conference-in-boston-on-september-8",
-          title: 'I was invited to give a keynote talk about the InMOS project at...',
-          description: "",
-          section: "News",},{id: "news-attended-schmidt-futures-integration-across-models-and-observations-inmos-meeting-at-the-university-of-california-santa-barbara",
+            },},{id: "news-attended-schmidt-futures-integration-across-models-and-observations-inmos-meeting-at-the-university-of-california-santa-barbara",
           title: 'Attended Schmidt Futures Integration Across Models and Observations (InMOS) meeting at the University...',
           description: "",
           section: "News",},{id: "news-our-pnas-paper-on-bubble-driven-gas-exchange-featured-by-princeton-mechanical-aerospace-engineering",
@@ -64,6 +61,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-successfully-defended-my-phd-thesis",
           title: 'I successfully defended my PhD thesis :)',
+          description: "",
+          section: "News",},{id: "news-",
+          title: '',
           description: "",
           section: "News",},{id: "news-",
           title: '',
